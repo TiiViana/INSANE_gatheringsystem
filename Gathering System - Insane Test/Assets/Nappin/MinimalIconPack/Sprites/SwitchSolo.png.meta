@@ -1,0 +1,852 @@
+fileFormatVersion: 2
+guid: 2a02c3f732871c544ba42c50d3b7114e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2841041080648026368
+    second: SwitchSolo_directional
+  - first:
+      213: 3160607885890409878
+    second: SwitchSolo_directional_up
+  - first:
+      213: 8379176164856997975
+    second: SwitchSolo_directional_right
+  - first:
+      213: -1205838264265804782
+    second: SwitchSolo_directional_down
+  - first:
+      213: 3287132860298621706
+    second: SwitchSolo_directional_left
+  - first:
+      213: 8934252083408402073
+    second: SwitchSolo_rotate
+  - first:
+      213: -2669631774718089737
+    second: SwitchSolo_move_up
+  - first:
+      213: 5864627904109259053
+    second: SwitchSolo_move_right
+  - first:
+      213: 3106368586724090068
+    second: SwitchSolo_move_down
+  - first:
+      213: 5672452152330520510
+    second: SwitchSolo_move_left
+  - first:
+      213: 6444026404141518378
+    second: SwitchSolo_move_forward
+  - first:
+      213: -3676655952613037753
+    second: SwitchSolo_triggertop_left
+  - first:
+      213: -6955456989143246477
+    second: SwitchSolo_triggertop_right
+  - first:
+      213: -1104693260091434124
+    second: SwitchSolo_triggerside_left
+  - first:
+      213: -2076825964890270750
+    second: SwitchSolo_triggerside_right
+  - first:
+      213: -264574653551685787
+    second: SwitchSolo_analog
+  - first:
+      213: -4160706123325383558
+    second: SwitchSolo_analog_leftright
+  - first:
+      213: 7784925347804634450
+    second: SwitchSolo_analog_updown
+  - first:
+      213: 336078583582983411
+    second: SwitchSolo_analog_rotate
+  - first:
+      213: 3486569611383860331
+    second: SwitchSolo_analog_press
+  - first:
+      213: 6914872583340268052
+    second: SwitchSolo_plus
+  - first:
+      213: 3148899343468216170
+    second: SwitchSolo_minus
+  - first:
+      213: -3144679041217219789
+    second: SwitchSolo_share
+  - first:
+      213: 3273534938422622248
+    second: SwitchSolo_home
+  - first:
+      213: -7280193788735692723
+    second: SwitchSolo_fullbattery
+  - first:
+      213: -7058811389621408481
+    second: SwitchSolo_midbattery
+  - first:
+      213: 7674914568362217981
+    second: SwitchSolo_lowbattery
+  - first:
+      213: -9041635074949234377
+    second: SwitchSolo_nobattery
+  - first:
+      213: -4308949416211411552
+    second: SwitchSolo_disconnected
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SwitchSolo_directional
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00941547fc76d6720800000000000000
+      internalID: 2841041080648026368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_directional_up
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695dbc8602cbcdb20800000000000000
+      internalID: 3160607885890409878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_directional_right
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758a8b0c350d84470800000000000000
+      internalID: 8379176164856997975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_directional_down
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214fcd9cc70044fe0800000000000000
+      internalID: -1205838264265804782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_directional_left
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03fc93abed3e9d20800000000000000
+      internalID: 3287132860298621706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_rotate
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996f9552fe6dcfb70800000000000000
+      internalID: 8934252083408402073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_move_up
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f525d29b0093fad0800000000000000
+      internalID: -2669631774718089737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_move_right
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29a644b108536150800000000000000
+      internalID: 5864627904109259053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_move_down
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d02f1975c90c1b20800000000000000
+      internalID: 3106368586724090068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_move_left
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb78f09bd2998be40800000000000000
+      internalID: 5672452152330520510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_move_forward
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ec7166fd7cd6950800000000000000
+      internalID: 6444026404141518378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_triggertop_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749ac2f04e4e9fcc0800000000000000
+      internalID: -3676655952613037753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_triggertop_right
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 379db9f48b0497f90800000000000000
+      internalID: -6955456989143246477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_triggerside_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b5b7635575ba0f0800000000000000
+      internalID: -1104693260091434124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_triggerside_right
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35866d9c1ad23e0800000000000000
+      internalID: -2076825964890270750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_analog
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fca7e11ca045cf0800000000000000
+      internalID: -264574653551685787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_analog_leftright
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cd56043d33246c0800000000000000
+      internalID: -4160706123325383558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_analog_updown
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d54d68b5c990c60800000000000000
+      internalID: 7784925347804634450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_analog_rotate
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4841fe0bdf9a400800000000000000
+      internalID: 336078583582983411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_analog_press
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ce433c698c26030800000000000000
+      internalID: 3486569611383860331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_plus
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a951d5aff86ff50800000000000000
+      internalID: 6914872583340268052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_minus
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f32e0f44323bb20800000000000000
+      internalID: 3148899343468216170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_share
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333b1afb21bdb54d0800000000000000
+      internalID: -3144679041217219789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_home
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828b28cbeaeed6d20800000000000000
+      internalID: 3273534938422622248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_fullbattery
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40676e325e87fa90800000000000000
+      internalID: -7280193788735692723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_midbattery
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d6229b0701a0e90800000000000000
+      internalID: -7058811389621408481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_lowbattery
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df153b0f226c28a60800000000000000
+      internalID: 7674914568362217981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_nobattery
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73140f0ddc8a58280800000000000000
+      internalID: -9041635074949234377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SwitchSolo_disconnected
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad8793f5598334c0800000000000000
+      internalID: -4308949416211411552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 11ab7b91e5ae06046a6c5fa4c6de3ccb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SwitchSolo_analog: -264574653551685787
+      SwitchSolo_analog_leftright: -4160706123325383558
+      SwitchSolo_analog_press: 3486569611383860331
+      SwitchSolo_analog_rotate: 336078583582983411
+      SwitchSolo_analog_updown: 7784925347804634450
+      SwitchSolo_directional: 2841041080648026368
+      SwitchSolo_directional_down: -1205838264265804782
+      SwitchSolo_directional_left: 3287132860298621706
+      SwitchSolo_directional_right: 8379176164856997975
+      SwitchSolo_directional_up: 3160607885890409878
+      SwitchSolo_disconnected: -4308949416211411552
+      SwitchSolo_fullbattery: -7280193788735692723
+      SwitchSolo_home: 3273534938422622248
+      SwitchSolo_lowbattery: 7674914568362217981
+      SwitchSolo_midbattery: -7058811389621408481
+      SwitchSolo_minus: 3148899343468216170
+      SwitchSolo_move_down: 3106368586724090068
+      SwitchSolo_move_forward: 6444026404141518378
+      SwitchSolo_move_left: 5672452152330520510
+      SwitchSolo_move_right: 5864627904109259053
+      SwitchSolo_move_up: -2669631774718089737
+      SwitchSolo_nobattery: -9041635074949234377
+      SwitchSolo_plus: 6914872583340268052
+      SwitchSolo_rotate: 8934252083408402073
+      SwitchSolo_share: -3144679041217219789
+      SwitchSolo_triggerside_left: -1104693260091434124
+      SwitchSolo_triggerside_right: -2076825964890270750
+      SwitchSolo_triggertop_left: -3676655952613037753
+      SwitchSolo_triggertop_right: -6955456989143246477
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,677 @@
+fileFormatVersion: 2
+guid: e2a8ea6b16053b944af2fc480e717477
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4018664279555767194
+    second: BoardGames_puzzle_0
+  - first:
+      213: -5250623592366353130
+    second: BoardGames_puzzle_1
+  - first:
+      213: 8523457718975147387
+    second: BoardGames_puzzle_2
+  - first:
+      213: 8379746694534426234
+    second: BoardGames_puzzle_3
+  - first:
+      213: 8237773055060219392
+    second: BoardGames_cards_0
+  - first:
+      213: -4134423478171860530
+    second: BoardGames_cards_1
+  - first:
+      213: -8842186497751522319
+    second: BoardGames_cards_2
+  - first:
+      213: 6136600145267593390
+    second: BoardGames_cards_3
+  - first:
+      213: 4026584703940781356
+    second: BoardGames_dice
+  - first:
+      213: 3943065694810010325
+    second: BoardGames_dice_1
+  - first:
+      213: 3404550760336134032
+    second: BoardGames_dice_2
+  - first:
+      213: 634884621730194309
+    second: BoardGames_dice_3
+  - first:
+      213: 5241696003664405296
+    second: BoardGames_dice_4
+  - first:
+      213: 3588568285701373648
+    second: BoardGames_dice_5
+  - first:
+      213: -2228054644768905418
+    second: BoardGames_dice_6
+  - first:
+      213: -7344054273434309859
+    second: BoardGames_chess
+  - first:
+      213: -7162387079635640555
+    second: BoardGames_chess_bishop
+  - first:
+      213: 1129955127651185418
+    second: BoardGames_chess_knight
+  - first:
+      213: -7214561778374396121
+    second: BoardGames_chess_pawn
+  - first:
+      213: 2307978139656493416
+    second: BoardGames_chess_rook
+  - first:
+      213: 1992418582029350764
+    second: BoardGames_chess_king
+  - first:
+      213: -1415159296725254993
+    second: BoardGames_chess_queen
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BoardGames_puzzle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bf876ded925c730800000000000000
+      internalID: 4018664279555767194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_puzzle_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d7b769a90227b0800000000000000
+      internalID: -5250623592366353130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_puzzle_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d239dd2a7694670800000000000000
+      internalID: 8523457718975147387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_puzzle_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e6a7b8837da4470800000000000000
+      internalID: 8379746694534426234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_cards_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 006162fa2f2725270800000000000000
+      internalID: 8237773055060219392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_cards_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1088070c39f96c0800000000000000
+      internalID: -4134423478171860530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_cards_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f3e3cb6a3e3a4580800000000000000
+      internalID: -8842186497751522319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_cards_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0194ba155992550800000000000000
+      internalID: 6136600145267593390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_dice
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c256968547d41e730800000000000000
+      internalID: 4026584703940781356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_dice_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2fd21bb5598b630800000000000000
+      internalID: 3943065694810010325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_dice_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0f91e0e46f3f20800000000000000
+      internalID: 3404550760336134032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_dice_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583269f13309fc800800000000000000
+      internalID: 634884621730194309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_dice_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033600f5ebe3eb840800000000000000
+      internalID: 5241696003664405296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_dice_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de7671c7d72dc130800000000000000
+      internalID: 3588568285701373648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_dice_6
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637e366fa1c5411e0800000000000000
+      internalID: -2228054644768905418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_chess
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b22cc7c8da41a90800000000000000
+      internalID: -7344054273434309859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_chess_bishop
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f587626e61a9c90800000000000000
+      internalID: -7162387079635640555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_chess_knight
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b7cba3386eaf00800000000000000
+      internalID: 1129955127651185418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_chess_pawn
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72732e5794ab0eb90800000000000000
+      internalID: -7214561778374396121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_chess_rook
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869979bc3e5970020800000000000000
+      internalID: 2307978139656493416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_chess_king
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c673fb1e42e76ab10800000000000000
+      internalID: 1992418582029350764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BoardGames_chess_queen
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac79121e185c5ce0800000000000000
+      internalID: -1415159296725254993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 616ccbd4e34b087488b495d51313b17f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BoardGames_cards_0: 8237773055060219392
+      BoardGames_cards_1: -4134423478171860530
+      BoardGames_cards_2: -8842186497751522319
+      BoardGames_cards_3: 6136600145267593390
+      BoardGames_chess: -7344054273434309859
+      BoardGames_chess_bishop: -7162387079635640555
+      BoardGames_chess_king: 1992418582029350764
+      BoardGames_chess_knight: 1129955127651185418
+      BoardGames_chess_pawn: -7214561778374396121
+      BoardGames_chess_queen: -1415159296725254993
+      BoardGames_chess_rook: 2307978139656493416
+      BoardGames_dice: 4026584703940781356
+      BoardGames_dice_1: 3943065694810010325
+      BoardGames_dice_2: 3404550760336134032
+      BoardGames_dice_3: 634884621730194309
+      BoardGames_dice_4: 5241696003664405296
+      BoardGames_dice_5: 3588568285701373648
+      BoardGames_dice_6: -2228054644768905418
+      BoardGames_puzzle_0: 4018664279555767194
+      BoardGames_puzzle_1: -5250623592366353130
+      BoardGames_puzzle_2: 8523457718975147387
+      BoardGames_puzzle_3: 8379746694534426234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

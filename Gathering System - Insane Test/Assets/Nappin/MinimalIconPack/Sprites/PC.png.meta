@@ -1,0 +1,1751 @@
+fileFormatVersion: 2
+guid: 337d2ac5dfa08ec4495abab2f86b6c70
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5778590093982927133
+    second: PC_8
+  - first:
+      213: 1341951855039238538
+    second: PC_8
+  - first:
+      213: 1252354279565329153
+    second: PC_8
+  - first:
+      213: 411557490847500162
+    second: PC_8
+  - first:
+      213: 6552657634297009707
+    second: PC_8
+  - first:
+      213: -6893851535811529201
+    second: PC_8
+  - first:
+      213: -3936000452674267285
+    second: PC_8
+  - first:
+      213: 7848044809928152401
+    second: PC_8
+  - first:
+      213: 8624034538222849326
+    second: PC_8
+  - first:
+      213: 7331319547816935788
+    second: PC_0
+  - first:
+      213: -2021819684137480787
+    second: PC_Q
+  - first:
+      213: -2693641334832668538
+    second: PC_E
+  - first:
+      213: -6790096863748189182
+    second: PC_R
+  - first:
+      213: -3151661756732490034
+    second: PC_T
+  - first:
+      213: 7062122416850078871
+    second: PC_F
+  - first:
+      213: 3407269915240347163
+    second: PC_G
+  - first:
+      213: 2197832365587427427
+    second: PC_Z
+  - first:
+      213: -6422742430305447530
+    second: PC_X
+  - first:
+      213: 4064949415367278797
+    second: PC_C
+  - first:
+      213: 8095792149405845320
+    second: PC_V
+  - first:
+      213: 2986401942560058283
+    second: PC_B
+  - first:
+      213: 7272531783231458484
+    second: PC_21
+  - first:
+      213: -9219988564141516114
+    second: PC_Y
+  - first:
+      213: -7983702198735171179
+    second: PC_P
+  - first:
+      213: -8737588625594477586
+    second: PC_H
+  - first:
+      213: 7658595120675212599
+    second: PC_N
+  - first:
+      213: -8030785028616687228
+    second: PC_M
+  - first:
+      213: -5522472806383534938
+    second: PC_I
+  - first:
+      213: 6308354110588322119
+    second: PC_O
+  - first:
+      213: 2904084509769973860
+    second: PC_.
+  - first:
+      213: 3870744276273934906
+    second: PC_[
+  - first:
+      213: 5366914299855654733
+    second: PC_]
+  - first:
+      213: -6802311920049484149
+    second: PC_-
+  - first:
+      213: -6721327674104329207
+    second: PC_+
+  - first:
+      213: -927105484692273056
+    second: PC_=
+  - first:
+      213: -5747184195133255711
+    second: PC_wasd
+  - first:
+      213: 4637495119220253099
+    second: PC_Wasd
+  - first:
+      213: -1501683661368026527
+    second: PC_wAsd
+  - first:
+      213: -2243172509630687738
+    second: PC_waSd
+  - first:
+      213: 5524158511961760082
+    second: PC_wasD
+  - first:
+      213: 3576951519259138408
+    second: PC_arrows
+  - first:
+      213: -2801471420680728826
+    second: PC_arrows_top
+  - first:
+      213: -6359894715690832650
+    second: PC_arrows_left
+  - first:
+      213: 2580752988184262481
+    second: PC_arrows_down
+  - first:
+      213: -7272159461194661403
+    second: PC_arrows_right
+  - first:
+      213: -2792685207817371447
+    second: PC_mouse
+  - first:
+      213: -1747800752282932897
+    second: PC_mouse_left
+  - first:
+      213: -8102878951775678499
+    second: PC_mouse_right
+  - first:
+      213: -2681304314332761070
+    second: PC_mouse_scroll
+  - first:
+      213: 6338998785806725650
+    second: PC_mouse_move
+  - first:
+      213: -8080303494999388616
+    second: PC_mouse_movevertical
+  - first:
+      213: 3810187128899425950
+    second: PC_mouse_movehorizontal
+  - first:
+      213: -5912522201778354880
+    second: PC_mouse_sidetop
+  - first:
+      213: -1620188697768718676
+    second: PC_mouse_sidebottom
+  - first:
+      213: 3415356923448401601
+    second: PC_ESC
+  - first:
+      213: -1777128382661238041
+    second: PC_esc
+  - first:
+      213: 8200898443331855419
+    second: PC_CTRL
+  - first:
+      213: -3553322797873124569
+    second: PC_ctrl
+  - first:
+      213: 5697700564740888991
+    second: PC_cmd
+  - first:
+      213: 1565779079007175724
+    second: PC_ALT
+  - first:
+      213: 4352355796716565461
+    second: PC_alt
+  - first:
+      213: -8842306436925156372
+    second: PC_enter
+  - first:
+      213: 3987375680111202715
+    second: PC_back
+  - first:
+      213: -8275877313526258025
+    second: PC_tab
+  - first:
+      213: 5381152676804448595
+    second: PC_space
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e67e810de25ecfa0800000000000000
+      internalID: 1341951855039238538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3520
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a815a492a129f9210800000000000000
+      internalID: 1252354279565329153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_3
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3520
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1038e6ef491416110800000000000000
+      internalID: 411557490847500162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_4
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 3520
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287cd9e7b5526b500800000000000000
+      internalID: 6552657634297009707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_5
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3520
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b265603a667bfea50800000000000000
+      internalID: -6893851535811529201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3300
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f063ca9ad8e1450a0800000000000000
+      internalID: -3936000452674267285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3300
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67d29e21748069c0800000000000000
+      internalID: 7848044809928152401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3300
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1559d158c2bd9ec60800000000000000
+      internalID: -5778590093982927133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_8
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 3300
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d097d68b9bea770800000000000000
+      internalID: 8624034538222849326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_0
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3300
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61818629441eb560800000000000000
+      internalID: 7331319547816935788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Q
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3080
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadc71795bd01f3e0800000000000000
+      internalID: -2021819684137480787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_E
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3080
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6806dfc3a734e9ad0800000000000000
+      internalID: -2693641334832668538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_R
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3080
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2049bcdb0eab4c1a0800000000000000
+      internalID: -6790096863748189182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_T
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 3080
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceb6c9945c0344d0800000000000000
+      internalID: -3151661756732490034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_F
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 3080
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c0ca0ebe2b10260800000000000000
+      internalID: 7062122416850078871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_G
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2860
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16b6c77fed094f20800000000000000
+      internalID: 3407269915240347163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Z
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2860
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360f1b254e4408e10800000000000000
+      internalID: 2197832365587427427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_X
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2860
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69190dde9c5ddd6a0800000000000000
+      internalID: -6422742430305447530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_C
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2860
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc006ecc4f9996830800000000000000
+      internalID: 4064949415367278797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_V
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2860
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8474bb801180a5070800000000000000
+      internalID: 8095792149405845320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_B
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab24de7eb4d17920800000000000000
+      internalID: 2986401942560058283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_21
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2640
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bccf3510293de460800000000000000
+      internalID: 7272531783231458484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Y
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2640
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5e2120450c0080800000000000000
+      internalID: -9219988564141516114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_P
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2640
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59192e35621343190800000000000000
+      internalID: -7983702198735171179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_H
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2640
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee392f15079ddb680800000000000000
+      internalID: -8737588625594477586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_N
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2420
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dc26e6fabc84a60800000000000000
+      internalID: 7658595120675212599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_M
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2420
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481f6cdb09bec8090800000000000000
+      internalID: -8030785028616687228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_I
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2420
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac31cded3c3c53b0800000000000000
+      internalID: -5522472806383534938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_O
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2420
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7410ef6f3a6cb8750800000000000000
+      internalID: 6308354110588322119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_.
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460cd82a9716d4820800000000000000
+      internalID: 2904084509769973860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_[
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a323fa34965a7b530800000000000000
+      internalID: 3870744276273934906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_]
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f4cdede1c1b7a40800000000000000
+      internalID: 5366914299855654733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_-
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e8b0259555991a0800000000000000
+      internalID: -6802311920049484149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_+
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c420e671c09b2a0800000000000000
+      internalID: -6721327674104329207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_=
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068c99349724223f0800000000000000
+      internalID: -927105484692273056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_wasd
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efc756ac66ed30b0800000000000000
+      internalID: -5747184195133255711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_Wasd
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1760
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba12bbc8d31bb5040800000000000000
+      internalID: 4637495119220253099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_wAsd
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1760
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a962f8aa2f82be0800000000000000
+      internalID: -1501683661368026527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_waSd
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1760
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6069a81cc76aed0e0800000000000000
+      internalID: -2243172509630687738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_wasD
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1760
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2516e6cf5e0c9ac40800000000000000
+      internalID: 5524158511961760082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_arrows
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8691c3c8472e3a130800000000000000
+      internalID: 3576951519259138408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_arrows_top
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f8ae1f59c2f19d0800000000000000
+      internalID: -2801471420680728826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_arrows_left
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc2d56c37d1db7a0800000000000000
+      internalID: -6359894715690832650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_arrows_down
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15730c95b2da0d320800000000000000
+      internalID: 2580752988184262481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_arrows_right
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10f75ef79141b90800000000000000
+      internalID: -7272159461194661403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_mouse
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ce8a89936e39d0800000000000000
+      internalID: -2792685207817371447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_mouse_left
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59e30ed9709eb7e0800000000000000
+      internalID: -1747800752282932897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_mouse_right
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfcb65368acc8f80800000000000000
+      internalID: -8102878951775678499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_mouse_scroll
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2143979aee71acad0800000000000000
+      internalID: -2681304314332761070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_mouse_move
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21274ab6fc5a8f750800000000000000
+      internalID: 6338998785806725650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_mouse_movevertical
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ec63758cefcdf80800000000000000
+      internalID: -8080303494999388616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_mouse_movehorizontal
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96d0d9a10180e430800000000000000
+      internalID: 3810187128899425950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_mouse_sidetop
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0450464226082fda0800000000000000
+      internalID: -5912522201778354880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_mouse_sidebottom
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae8468a6fee389e0800000000000000
+      internalID: -1620188697768718676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_ESC
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce105bc609c56f20800000000000000
+      internalID: 3415356923448401601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_esc
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2663fc62f5657e0800000000000000
+      internalID: -1777128382661238041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_CTRL
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3469d91fa17fc170800000000000000
+      internalID: 8200898443331855419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_ctrl
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ba97cddbf00bec0800000000000000
+      internalID: -3553322797873124569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_cmd
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f995ce5d97c421f40800000000000000
+      internalID: 5697700564740888991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_ALT
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2406f8c6c3cab510800000000000000
+      internalID: 1565779079007175724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_alt
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3376f898ca66c30800000000000000
+      internalID: 4352355796716565461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_enter
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce31de7e421d94580800000000000000
+      internalID: -8842306436925156372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_back
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b915f071e01065730800000000000000
+      internalID: 3987375680111202715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_tab
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796ad8a4e6d262d80800000000000000
+      internalID: -8275877313526258025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC_space
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351521759d1bdaa40800000000000000
+      internalID: 5381152676804448595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f464df0447154f14dbca3fd94e6a784b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC_+: -6721327674104329207
+      PC_-: -6802311920049484149
+      PC_.: 2904084509769973860
+      PC_0: 7331319547816935788
+      PC_1: 1341951855039238538
+      PC_2: 1252354279565329153
+      PC_21: 7272531783231458484
+      PC_3: 411557490847500162
+      PC_4: 6552657634297009707
+      PC_5: -6893851535811529201
+      PC_6: -3936000452674267285
+      PC_7: 7848044809928152401
+      PC_8: -5778590093982927133
+      PC_=: -927105484692273056
+      PC_ALT: 1565779079007175724
+      PC_B: 2986401942560058283
+      PC_C: 4064949415367278797
+      PC_CTRL: 8200898443331855419
+      PC_E: -2693641334832668538
+      PC_ESC: 3415356923448401601
+      PC_F: 7062122416850078871
+      PC_G: 3407269915240347163
+      PC_H: -8737588625594477586
+      PC_I: -5522472806383534938
+      PC_M: -8030785028616687228
+      PC_N: 7658595120675212599
+      PC_O: 6308354110588322119
+      PC_P: -7983702198735171179
+      PC_Q: -2021819684137480787
+      PC_R: -6790096863748189182
+      PC_T: -3151661756732490034
+      PC_V: 8095792149405845320
+      PC_Wasd: 4637495119220253099
+      PC_X: -6422742430305447530
+      PC_Y: -9219988564141516114
+      PC_Z: 2197832365587427427
+      PC_[: 3870744276273934906
+      PC_]: 5366914299855654733
+      PC_alt: 4352355796716565461
+      PC_arrows: 3576951519259138408
+      PC_arrows_down: 2580752988184262481
+      PC_arrows_left: -6359894715690832650
+      PC_arrows_right: -7272159461194661403
+      PC_arrows_top: -2801471420680728826
+      PC_back: 3987375680111202715
+      PC_cmd: 5697700564740888991
+      PC_ctrl: -3553322797873124569
+      PC_enter: -8842306436925156372
+      PC_esc: -1777128382661238041
+      PC_mouse: -2792685207817371447
+      PC_mouse_left: -1747800752282932897
+      PC_mouse_move: 6338998785806725650
+      PC_mouse_movehorizontal: 3810187128899425950
+      PC_mouse_movevertical: -8080303494999388616
+      PC_mouse_right: -8102878951775678499
+      PC_mouse_scroll: -2681304314332761070
+      PC_mouse_sidebottom: -1620188697768718676
+      PC_mouse_sidetop: -5912522201778354880
+      PC_space: 5381152676804448595
+      PC_tab: -8275877313526258025
+      PC_wAsd: -1501683661368026527
+      PC_waSd: -2243172509630687738
+      PC_wasD: 5524158511961760082
+      PC_wasd: -5747184195133255711
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

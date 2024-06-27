@@ -1,0 +1,1771 @@
+fileFormatVersion: 2
+guid: 7818a2db4936fba42953f0a63d0d83b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1033766676993296678
+    second: Arrow_closed_left
+  - first:
+      213: 5287939958834139383
+    second: Arrow_closed_right
+  - first:
+      213: 3318904089994504119
+    second: Arrow_closed_up
+  - first:
+      213: 2319643638384702094
+    second: Arrow_closed_down
+  - first:
+      213: 7762582236204482122
+    second: Arrow_open_left
+  - first:
+      213: -7389299311667654144
+    second: Arrow_open_right
+  - first:
+      213: 8725979607429122002
+    second: Arrow_open_up
+  - first:
+      213: -4660600526088031369
+    second: Arrow_open_down
+  - first:
+      213: -8063395830634880408
+    second: Arrow_opendouble_left
+  - first:
+      213: -3364982650870575014
+    second: Arrow_opendouble_right
+  - first:
+      213: -9146782503041755686
+    second: Arrow_opendouble_up
+  - first:
+      213: -1869602054923354706
+    second: Arrow_opendouble_down
+  - first:
+      213: -619443622549693501
+    second: Arrow_opensmall_left
+  - first:
+      213: -3070942499793896952
+    second: Arrow_opensmall_right
+  - first:
+      213: 4444580458615500998
+    second: Arrow_opensmall_up
+  - first:
+      213: -1927359971148726272
+    second: Arrow_opensmall_down
+  - first:
+      213: -6073973932922368642
+    second: Arrow_closed_leglong_downleft
+  - first:
+      213: -3232304732080136926
+    second: Arrow_closed_leglong_upright
+  - first:
+      213: 5497406505396119197
+    second: Arrow_closed_leglong_upleft
+  - first:
+      213: -8539693825208659761
+    second: Arrow_closed_leglong_downright
+  - first:
+      213: -1207148892023308597
+    second: Arrow_closed_leglong_down
+  - first:
+      213: -8534331133059597245
+    second: Arrow_closed_leglong_up
+  - first:
+      213: 1814898566853872970
+    second: Arrow_closed_leglong_right
+  - first:
+      213: 2340906168254415443
+    second: Arrow_closed_leglong_left
+  - first:
+      213: 9190050276984235804
+    second: Arrow_closed_leglong_leftcorner
+  - first:
+      213: -7184751304211173070
+    second: Arrow_closed_leglong_rightcorner
+  - first:
+      213: 3441189705568238198
+    second: Arrow_open_leglong_downleft
+  - first:
+      213: 6400257997392810692
+    second: Arrow_open_leglong_upright
+  - first:
+      213: -1148318312660235055
+    second: Arrow_open_leglong_upleft
+  - first:
+      213: -2815044941114231915
+    second: Arrow_open_leglong_downright
+  - first:
+      213: -3536035294089570106
+    second: Arrow_open_leglong_down
+  - first:
+      213: 1374773979873554613
+    second: Arrow_open_leglong_up
+  - first:
+      213: -7307796838149890716
+    second: Arrow_open_leglong_right
+  - first:
+      213: 1731812286262815291
+    second: Arrow_open_leglong_left
+  - first:
+      213: 8395575965657198457
+    second: Arrow_open_leglong_leftcorner
+  - first:
+      213: 7512820687332862352
+    second: Arrow_open_leglong_rightcorner
+  - first:
+      213: 3052361078522944639
+    second: Arrow_open_legshort_upright
+  - first:
+      213: 6386560137127420047
+    second: Arrow_open_legshort_upleft
+  - first:
+      213: 2081500703349138841
+    second: Arrow_open_legshort_left
+  - first:
+      213: -5353328341807856877
+    second: Arrow_open_legshort_downright
+  - first:
+      213: -4432070596555396154
+    second: Arrow_open_legshort_downleft
+  - first:
+      213: 6275452469263380761
+    second: Arrow_open_legshort_up
+  - first:
+      213: -1769041649489113585
+    second: Arrow_open_legshort_down
+  - first:
+      213: 1465473574408320265
+    second: Arrow_open_legshort_right
+  - first:
+      213: -3151682343497436758
+    second: Arrow_open_legshort_leftcorner
+  - first:
+      213: 8689068725914527376
+    second: Arrow_open_legshort_rightcorner
+  - first:
+      213: -6769864546136129375
+    second: Arrow_closed_legshort_upright
+  - first:
+      213: -1901819180236845676
+    second: Arrow_closed_legshort_upleft
+  - first:
+      213: -4337419419730556897
+    second: Arrow_closed_left
+  - first:
+      213: -459986184388685987
+    second: Arrow_closed_right
+  - first:
+      213: -852823216800158299
+    second: Arrow_closed_up
+  - first:
+      213: 2372543920737663427
+    second: Arrow_closed_down
+  - first:
+      213: -7300056563779393170
+    second: Arrow_open_left
+  - first:
+      213: -9213911009384546406
+    second: Arrow_open_right
+  - first:
+      213: 1859568134139514343
+    second: Arrow_open_up
+  - first:
+      213: 4072308314043970916
+    second: Arrow_open_down
+  - first:
+      213: -4629297262747450064
+    second: Arrow_opendouble_left
+  - first:
+      213: 5393300421761396169
+    second: Arrow_opendouble_right
+  - first:
+      213: 6052958098691445103
+    second: Arrow_opendouble_up
+  - first:
+      213: 4979188760111642797
+    second: Arrow_opendouble_down
+  - first:
+      213: 629103979995110756
+    second: Arrow_opensmall_left
+  - first:
+      213: -4492527520258283229
+    second: Arrow_opensmall_right
+  - first:
+      213: -8008278822641631339
+    second: Arrow_opensmall_up
+  - first:
+      213: 8726176433617592556
+    second: Arrow_opensmall_down
+  - first:
+      213: 819921128977776341
+    second: Arrow_closed_leglong_downleft
+  - first:
+      213: -2105185530781611775
+    second: Arrow_closed_leglong_upright
+  - first:
+      213: -696108296552096525
+    second: Arrow_closed_leglong_upleft
+  - first:
+      213: 1678734308147054340
+    second: Arrow_closed_leglong_downright
+  - first:
+      213: 6440782212888382050
+    second: Arrow_closed_leglong_down
+  - first:
+      213: -4711589270470429894
+    second: Arrow_closed_leglong_up
+  - first:
+      213: 6280592253543896810
+    second: Arrow_closed_leglong_right
+  - first:
+      213: -932914532635443733
+    second: Arrow_closed_leglong_left
+  - first:
+      213: 6991321012688135410
+    second: Arrow_closed_leglong_leftcorner
+  - first:
+      213: 2828746917802448873
+    second: Arrow_closed_leglong_rightcorner
+  - first:
+      213: -2121486484698746721
+    second: Arrow_open_leglong_downleft
+  - first:
+      213: 2171852292789720497
+    second: Arrow_open_leglong_upright
+  - first:
+      213: -6846070023842876279
+    second: Arrow_open_leglong_upleft
+  - first:
+      213: 6379596167631040808
+    second: Arrow_open_leglong_downright
+  - first:
+      213: 933256377359102496
+    second: Arrow_open_leglong_down
+  - first:
+      213: -1652767004645008997
+    second: Arrow_open_leglong_up
+  - first:
+      213: 7295154529240016243
+    second: Arrow_open_leglong_right
+  - first:
+      213: -7709827888736907958
+    second: Arrow_open_leglong_left
+  - first:
+      213: 8338613326586900460
+    second: Arrow_open_leglong_leftcorner
+  - first:
+      213: -5299282114260249571
+    second: Arrow_open_leglong_rightcorner
+  - first:
+      213: 2998824391149722545
+    second: Arrow_open_legshort_upright
+  - first:
+      213: 8095913526477124876
+    second: Arrow_open_legshort_upleft
+  - first:
+      213: 7721584668506659229
+    second: Arrow_open_legshort_left
+  - first:
+      213: 5563164962194421593
+    second: Arrow_open_legshort_downright
+  - first:
+      213: 7185243927094301871
+    second: Arrow_open_legshort_downleft
+  - first:
+      213: -6593323139976573783
+    second: Arrow_open_legshort_up
+  - first:
+      213: -5010259922700979740
+    second: Arrow_open_legshort_down
+  - first:
+      213: -8176828000042389402
+    second: Arrow_open_legshort_right
+  - first:
+      213: 7250346662802564841
+    second: Arrow_open_legshort_leftcorner
+  - first:
+      213: 8380660878825007632
+    second: Arrow_open_legshort_rightcorner
+  - first:
+      213: 7951215269838553984
+    second: Arrow_closed_legshort_upright
+  - first:
+      213: -5551702137904865387
+    second: Arrow_closed_legshort_upleft
+  - first:
+      213: -4274199231139345387
+    second: Arrow_closed_legshort_left
+  - first:
+      213: -2459947551918735814
+    second: Arrow_closed_legshort_downright
+  - first:
+      213: 6810806265210179884
+    second: Arrow_closed_legshort_downleft
+  - first:
+      213: 452954449380137737
+    second: Arrow_closed_legshort_up
+  - first:
+      213: 5718018877284001389
+    second: Arrow_closed_legshort_down
+  - first:
+      213: 1054060509339409335
+    second: Arrow_closed_legshort_right
+  - first:
+      213: -3974749658883717450
+    second: Arrow_closed_legshort_leftcorner
+  - first:
+      213: -4584484298911798389
+    second: Arrow_closed_legshort_rightcorner
+  - first:
+      213: -6298949525770860507
+    second: Arrow_pinch_diagonal
+  - first:
+      213: -4778329792242981755
+    second: Arrow_zoom_diagonal
+  - first:
+      213: -5169391798782643971
+    second: Arrow_pinch_vertical
+  - first:
+      213: -6963208539000576281
+    second: Arrow_zoom_vertical
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arrow_closed_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2640
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f184415b4046ec3c0800000000000000
+      internalID: -1033766676993296678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_right
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2640
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fcced900dcd99f0800000000000000
+      internalID: 5287939958834139383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_up
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2640
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adab628dc92a24f0800000000000000
+      internalID: 3318904089994504119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_down
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2640
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9b4992028fce020800000000000000
+      internalID: 2319643638384702094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2420
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69abab8b3df0ba90800000000000000
+      internalID: 7762582236204482122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_right
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2420
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fb29d11cc912080800000000000000
+      internalID: -7389299311667654144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_up
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2420
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed85079d538ec910800000000000000
+      internalID: 8725979607429122002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_down
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2420
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465f57ae5deb38830800000000000000
+      internalID: -4660600526088031369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_opendouble_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0350046aaae61cfb0800000000000000
+      internalID: -8063395830634880408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_opendouble_right
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd6d0e982ad8da40800000000000000
+      internalID: -3364982650870575014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_opendouble_up
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61d3d0225d600450800000000000000
+      internalID: -9146782503041755686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_opendouble_down
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da87214ebc1a91540800000000000000
+      internalID: -1869602054923354706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_opensmall_left
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1980
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d94669cb60bb800800000000000000
+      internalID: -619443622549693501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_opensmall_right
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1980
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329a653d50657a1c0800000000000000
+      internalID: -3070942499793896952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_opensmall_up
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1980
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f792a27d0ecd090800000000000000
+      internalID: 4444580458615500998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_opensmall_down
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1980
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0692dab3b991970800000000000000
+      internalID: -1927359971148726272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_leglong_downleft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5debe843ce1f06b00800000000000000
+      internalID: -6073973932922368642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_leglong_upright
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1760
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109487bd9e0e8c2e0800000000000000
+      internalID: -3232304732080136926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_leglong_upleft
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1760
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc5fc2413de656f0800000000000000
+      internalID: 5497406505396119197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_leglong_downright
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1760
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407cd5d75ff0c4710800000000000000
+      internalID: -8539693825208659761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_leglong_down
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1760
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26acdd24c41426950800000000000000
+      internalID: -1207148892023308597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_leglong_up
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33711685821d9eb0800000000000000
+      internalID: -8534331133059597245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_leglong_right
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6dd8be065292750800000000000000
+      internalID: 1814898566853872970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_leglong_left
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bedf674ec2f9d03f0800000000000000
+      internalID: 2340906168254415443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_leglong_leftcorner
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f420006b69260160800000000000000
+      internalID: 9190050276984235804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_leglong_rightcorner
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1540
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7981b955ab14720800000000000000
+      internalID: -7184751304211173070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_leglong_downleft
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f903db34847fe82e0800000000000000
+      internalID: 3441189705568238198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_leglong_upright
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b559504728f32e10800000000000000
+      internalID: 6400257997392810692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_leglong_upleft
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9843569d59fddf0a0800000000000000
+      internalID: -1148318312660235055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_leglong_downright
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8217716f9e0e88850800000000000000
+      internalID: -2815044941114231915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_leglong_down
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1320
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0227bd80bb793fc00800000000000000
+      internalID: -3536035294089570106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_leglong_up
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99d5af7a213019e0800000000000000
+      internalID: 1374773979873554613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_leglong_right
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375eee894689d3560800000000000000
+      internalID: -7307796838149890716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_leglong_left
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dcf643260310590800000000000000
+      internalID: 1731812286262815291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_leglong_leftcorner
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefec8204a4b8b370800000000000000
+      internalID: 8395575965657198457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_leglong_rightcorner
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1100
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14dfee6efa2576b0800000000000000
+      internalID: 7512820687332862352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_legshort_upright
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb914235e6fd9920800000000000000
+      internalID: 3052361078522944639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_legshort_upleft
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05f2f555767a5070800000000000000
+      internalID: 6386560137127420047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_legshort_left
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9911756854982b60800000000000000
+      internalID: 2081500703349138841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_legshort_downright
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 881
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9577f76ee05543d40800000000000000
+      internalID: -5353328341807856877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_legshort_downleft
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 880
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa41dfa584d17b360800000000000000
+      internalID: -4432070596555396154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_legshort_up
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac4550898fcf74a0800000000000000
+      internalID: 6275452469263380761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_legshort_down
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13803552bf77ab0800000000000000
+      internalID: -1769041649489113585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_legshort_right
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6607104b142168e80800000000000000
+      internalID: 1465473574408320265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_legshort_leftcorner
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e629c630e76e9460800000000000000
+      internalID: -3151682343497436758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_open_legshort_rightcorner
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 660
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01aa069aaa61e4470800000000000000
+      internalID: 8689068725914527376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_legshort_upright
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083836b1924685e60800000000000000
+      internalID: -6769864546136129375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_legshort_upleft
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f576bd15464f2b0800000000000000
+      internalID: -1901819180236845676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_legshort_left
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c01b8e17efea4c0800000000000000
+      internalID: -4274199231139345387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_legshort_downright
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ebac12cb28cddd0800000000000000
+      internalID: -2459947551918735814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_legshort_downleft
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 440
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c219bd78638d48e50800000000000000
+      internalID: 6810806265210179884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_legshort_up
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b5cbefba7394600800000000000000
+      internalID: 452954449380137737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_legshort_down
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66ad7f9fdb7a5f40800000000000000
+      internalID: 5718018877284001389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_legshort_right
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb51f6d276c0ae00800000000000000
+      internalID: 1054060509339409335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_legshort_leftcorner
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b6812f8e3ad6d8c0800000000000000
+      internalID: -3974749658883717450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_closed_legshort_rightcorner
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 220
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ba10dd1d3a060c0800000000000000
+      internalID: -4584484298911798389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_pinch_diagonal
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528005297c2a598a0800000000000000
+      internalID: -6298949525770860507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_zoom_diagonal
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584e0b1ee56ffadb0800000000000000
+      internalID: -4778329792242981755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_pinch_vertical
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df03eb03c81a248b0800000000000000
+      internalID: -5169391798782643971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arrow_zoom_vertical
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e667e7f9b6bd5f90800000000000000
+      internalID: -6963208539000576281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cc06ffbfd8b75c544be5b1af6df59ffd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Arrow_closed_down: 2319643638384702094
+      Arrow_closed_left: -1033766676993296678
+      Arrow_closed_leglong_down: -1207148892023308597
+      Arrow_closed_leglong_downleft: -6073973932922368642
+      Arrow_closed_leglong_downright: -8539693825208659761
+      Arrow_closed_leglong_left: 2340906168254415443
+      Arrow_closed_leglong_leftcorner: 9190050276984235804
+      Arrow_closed_leglong_right: 1814898566853872970
+      Arrow_closed_leglong_rightcorner: -7184751304211173070
+      Arrow_closed_leglong_up: -8534331133059597245
+      Arrow_closed_leglong_upleft: 5497406505396119197
+      Arrow_closed_leglong_upright: -3232304732080136926
+      Arrow_closed_legshort_down: 5718018877284001389
+      Arrow_closed_legshort_downleft: 6810806265210179884
+      Arrow_closed_legshort_downright: -2459947551918735814
+      Arrow_closed_legshort_left: -4274199231139345387
+      Arrow_closed_legshort_leftcorner: -3974749658883717450
+      Arrow_closed_legshort_right: 1054060509339409335
+      Arrow_closed_legshort_rightcorner: -4584484298911798389
+      Arrow_closed_legshort_up: 452954449380137737
+      Arrow_closed_legshort_upleft: -1901819180236845676
+      Arrow_closed_legshort_upright: -6769864546136129375
+      Arrow_closed_right: 5287939958834139383
+      Arrow_closed_up: 3318904089994504119
+      Arrow_open_down: -4660600526088031369
+      Arrow_open_left: 7762582236204482122
+      Arrow_open_leglong_down: -3536035294089570106
+      Arrow_open_leglong_downleft: 3441189705568238198
+      Arrow_open_leglong_downright: -2815044941114231915
+      Arrow_open_leglong_left: 1731812286262815291
+      Arrow_open_leglong_leftcorner: 8395575965657198457
+      Arrow_open_leglong_right: -7307796838149890716
+      Arrow_open_leglong_rightcorner: 7512820687332862352
+      Arrow_open_leglong_up: 1374773979873554613
+      Arrow_open_leglong_upleft: -1148318312660235055
+      Arrow_open_leglong_upright: 6400257997392810692
+      Arrow_open_legshort_down: -1769041649489113585
+      Arrow_open_legshort_downleft: -4432070596555396154
+      Arrow_open_legshort_downright: -5353328341807856877
+      Arrow_open_legshort_left: 2081500703349138841
+      Arrow_open_legshort_leftcorner: -3151682343497436758
+      Arrow_open_legshort_right: 1465473574408320265
+      Arrow_open_legshort_rightcorner: 8689068725914527376
+      Arrow_open_legshort_up: 6275452469263380761
+      Arrow_open_legshort_upleft: 6386560137127420047
+      Arrow_open_legshort_upright: 3052361078522944639
+      Arrow_open_right: -7389299311667654144
+      Arrow_open_up: 8725979607429122002
+      Arrow_opendouble_down: -1869602054923354706
+      Arrow_opendouble_left: -8063395830634880408
+      Arrow_opendouble_right: -3364982650870575014
+      Arrow_opendouble_up: -9146782503041755686
+      Arrow_opensmall_down: -1927359971148726272
+      Arrow_opensmall_left: -619443622549693501
+      Arrow_opensmall_right: -3070942499793896952
+      Arrow_opensmall_up: 4444580458615500998
+      Arrow_pinch_diagonal: -6298949525770860507
+      Arrow_pinch_vertical: -5169391798782643971
+      Arrow_zoom_diagonal: -4778329792242981755
+      Arrow_zoom_vertical: -6963208539000576281
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 10113da17ff1d6a47bd942db756273cf
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundCircular: {fileID: -5119543350994577975, guid: d1ac0381afddec4498ccdef1fdae86ae, type: 3}
+  - backgroundSquared: {fileID: 8686585829864150389, guid: d1ac0381afddec4498ccdef1fdae86ae, type: 3}
+  - backgroundSquaredSmooth: {fileID: -1704094412932318448, guid: d1ac0381afddec4498ccdef1fdae86ae, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
